@@ -6,7 +6,7 @@ import pickle
 import os
 
 # Change working directory
-os.chdir(r'C:\Users\COMD\Desktop\AI-ML Project\Final Map\Crop_recommendation')
+#os.chdir(r'C:\Users\COMD\Desktop\AI-ML Project\Final Map\Crop_recommendation')
 
 
 # Load the model and scalers
