@@ -21,7 +21,7 @@ crop_dict = {
     14: "Pomegranate", 15: "Lentil", 16: "Blackgram", 17: "Mungbean", 18: "Mothbeans",
     19: "Pigeonpeas", 20: "Kidneybeans", 21: "Chickpea", 22: "Coffee"
 }
-st.image("plants.jpg", use_column_width=True)
+st.image("plants.jpg", use_container_width=True)
 
 # App title
 st.title("Crop Recommendation System")
